@@ -9,17 +9,9 @@ Quizes are common feature of our student-facing apps.
 ## The Challenge
 
 Using the following wireframes, build a quiz interface. The questions are all in [questions.json]
-![Question](https://raw.githubusercontent.com/outlier-org/challenge-quiz/master/docs/wire-question.png)
 
-![Correct Answer](https://raw.githubusercontent.com/outlier-org/challenge-quiz/master/docs/wire-answer-correct.png)
-
-![Incorrect Answer](https://raw.githubusercontent.com/outlier-org/challenge-quiz/master/docs/wire-answer-incorrect.png)
-
-![Progress](https://raw.githubusercontent.com/outlier-org/challenge-quiz/master/docs/wire-progress.png)
-
-![Difficulty](https://raw.githubusercontent.com/outlier-org/challenge-quiz/master/docs/wire-difficulty.png)
-
-![Score](https://raw.githubusercontent.com/outlier-org/challenge-quiz/master/docs/wire-score.png)
+<img width="1366" height="647" alt="Question Counter" src="https://github.com/user-attachments/assets/2a5e7bff-6be3-403d-929d-f705af206992" />
+Demo-project: https://react-quiz-app-mu-five.vercel.app/
 
 ## Instructions
 
